@@ -42,4 +42,5 @@ bool VerificarNumeroPrimo(int Numero)
     }
 
     return true;
+    //8
 }
