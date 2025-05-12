@@ -1,9 +1,13 @@
 ﻿string Nome = "";
+string Sobrenome = "";
 bool ContinuarApp = true;
 
 
 Console.Write("Escreva o seu nome: ");
 Nome = Console.ReadLine();
+
+Console.Write("Escreva o seu sobrenome: ");
+Sobrenome = Console.ReadLine();
 
 while(ContinuarApp == true)
 {
